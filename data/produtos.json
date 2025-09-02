@@ -1,0 +1,173 @@
+[
+  {
+    "id": 1,
+    "nome": "Camiseta Estilosa",
+    "descricao": "Camiseta 100% algodão, confortável e moderna.",
+    "preco": 79.90,
+    "imagem": "https://images.unsplash.com/photo-1593032465175-37c5ebbe16be?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhfDEwfHx0LWNsaG90aGluZ3xlbnwwfHx8fDE2OTQ1NjY4NzQ&ixlib=rb-4.0.3&q=80&w=400",
+    "category": "Roupas"
+  },
+  {
+    "id": 2,
+    "nome": "Tênis Casual",
+    "descricao": "Tênis leve e confortável para uso diário.",
+    "preco": 199.90,
+    "imagem": "https://images.unsplash.com/photo-1600185361262-00dcf3f33053?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=400",
+    "category": "Calçados"
+  },
+  {
+    "id": 2,
+    "nome": "Tênis Casual",
+    "descricao": "Tênis leve e confortável para uso diário.",
+    "preco": 199.90,
+    "imagem": "https://images.unsplash.com/photo-1600185361262-00dcf3f33053?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=400",
+    "category": "Calçados"
+  },
+  {
+    "id": 3,
+    "nome": "Bolsa Feminina",
+    "descricao": "Bolsa elegante e prática, perfeita para o dia a dia.",
+    "preco": 149.90,
+    "imagem": "https://images.unsplash.com/photo-1589187158984-7124e5f6f899?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=400",
+    "category": "Acessórios"
+  },
+  {
+    "id": 1,
+    "nome": "Camiseta Estilosa",
+    "descricao": "Camiseta 100% algodão, confortável e moderna.",
+    "preco": 79.90,
+    "imagem": "https://images.unsplash.com/photo-1593032465175-37c5ebbe16be?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhfDEwfHx0LWNsaG90aGluZ3xlbnwwfHx8fDE2OTQ1NjY4NzQ&ixlib=rb-4.0.3&q=80&w=400",
+    "category": "Roupas"
+  },
+  {
+    "id": 2,
+    "nome": "Tênis Casual",
+    "descricao": "Tênis leve e confortável para uso diário.",
+    "preco": 199.90,
+    "imagem": "https://images.unsplash.com/photo-1600185361262-00dcf3f33053?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=400",
+    "category": "Calçados"
+  },
+  {
+    "id": 3,
+    "nome": "Bolsa Feminina",
+    "descricao": "Bolsa elegante e prática, perfeita para o dia a dia.",
+    "preco": 149.90,
+    "imagem": "https://images.unsplash.com/photo-1589187158984-7124e5f6f899?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=400",
+    "category": "Acessórios"
+  },
+{
+    "id": 2,
+    "nome": "Tênis Casual",
+    "descricao": "Tênis leve e confortável para uso diário.",
+    "preco": 199.90,
+    "imagem": "https://images.unsplash.com/photo-1600185361262-00dcf3f33053?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=400",
+    "category": "Calçados"
+  },
+  {
+    "id": 1,
+    "nome": "Camiseta Estilosa",
+    "descricao": "Camiseta 100% algodão, confortável e moderna.",
+    "preco": 79.90,
+    "imagem": "https://images.unsplash.com/photo-1593032465175-37c5ebbe16be?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhfDEwfHx0LWNsaG90aGluZ3xlbnwwfHx8fDE2OTQ1NjY4NzQ&ixlib=rb-4.0.3&q=80&w=400",
+    "category": "Roupas"
+  },
+  {
+    "id": 2,
+    "nome": "Tênis Casual",
+    "descricao": "Tênis leve e confortável para uso diário.",
+    "preco": 199.90,
+    "imagem": "https://images.unsplash.com/photo-1600185361262-00dcf3f33053?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=400",
+    "category": "Calçados"
+  },
+  {
+    "id": 3,
+    "nome": "Bolsa Feminina",
+    "descricao": "Bolsa elegante e prática, perfeita para o dia a dia.",
+    "preco": 149.90,
+    "imagem": "https://images.unsplash.com/photo-1589187158984-7124e5f6f899?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=400",
+    "category": "Acessórios"
+  },
+{
+    "id": 2,
+    "nome": "Tênis Casual",
+    "descricao": "Tênis leve e confortável para uso diário.",
+    "preco": 199.90,
+    "imagem": "https://images.unsplash.com/photo-1600185361262-00dcf3f33053?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=400",
+    "category": "Calçados"
+  },
+  {
+    "id": 3,
+    "nome": "Bolsa Feminina",
+    "descricao": "Bolsa elegante e prática, perfeita para o dia a dia.",
+    "preco": 149.90,
+    "imagem": "https://images.unsplash.com/photo-1589187158984-7124e5f6f899?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=400",
+    "category": "Acessórios"
+  },
+  {
+    "id": 1,
+    "nome": "Camiseta Estilosa",
+    "descricao": "Camiseta 100% algodão, confortável e moderna.",
+    "preco": 79.90,
+    "imagem": "https://images.unsplash.com/photo-1593032465175-37c5ebbe16be?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhfDEwfHx0LWNsaG90aGluZ3xlbnwwfHx8fDE2OTQ1NjY4NzQ&ixlib=rb-4.0.3&q=80&w=400",
+    "category": "Roupas"
+  },
+  {
+    "id": 2,
+    "nome": "Tênis Casual",
+    "descricao": "Tênis leve e confortável para uso diário.",
+    "preco": 199.90,
+    "imagem": "https://images.unsplash.com/photo-1600185361262-00dcf3f33053?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=400",
+    "category": "Calçados"
+  },
+  {
+    "id": 3,
+    "nome": "Bolsa Feminina",
+    "descricao": "Bolsa elegante e prática, perfeita para o dia a dia.",
+    "preco": 149.90,
+    "imagem": "https://images.unsplash.com/photo-1589187158984-7124e5f6f899?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=400",
+    "category": "Acessórios"
+  },
+  {
+    "id": 4,
+    "nome": "Relógio Clássico",
+    "descricao": "Relógio sofisticado com pulseira de couro.",
+    "preco": 249.90,
+    "imagem": "https://images.unsplash.com/photo-1600185361321-d8b06d4edfd0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=400",
+    "category": "Acessórios"
+  },
+  
+  {
+    "id": 5,
+    "nome": "Jaqueta Casual",
+    "descricao": "Jaqueta estilosa para dias frios e looks modernos.",
+    "preco": 299.90,
+    "imagem": "https://images.unsplash.com/photo-1602810317123-6f1ec91e2d02?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=400",
+    "category": "Roupas"
+  },
+
+  {
+    "id": 4,
+    "nome": "Relógio Clássico",
+    "descricao": "Relógio sofisticado com pulseira de couro.",
+    "preco": 249.90,
+    "imagem": "https://images.unsplash.com/photo-1600185361321-d8b06d4edfd0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=400",
+    "category": "Acessórios"
+  },
+  
+  {
+    "id": 5,
+    "nome": "Jaqueta Casual",
+    "descricao": "Jaqueta estilosa para dias frios e looks modernos.",
+    "preco": 299.90,
+    "imagem": "https://images.unsplash.com/photo-1602810317123-6f1ec91e2d02?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=400",
+    "category": "Roupas"
+  },
+  {
+    "id": 6,
+    "nome": "Mochila Moderna",
+    "descricao": "Mochila resistente e prática para uso diário.",
+    "preco": 179.90,
+    "imagem": "https://images.unsplash.com/photo-1610484824117-f06cf0b5b8de?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=400",
+    "category": "Acessórios"
+  }
+]
