@@ -19,9 +19,10 @@ function renderCart() {
 
   let total = 0;
   cart.forEach((item, index) => {
-    total += item.preco;
+    total += item.preco * item.qty; 
+
     const li = document.createElement('li');
-    li.textContent = `${item.nome} - R$ ${item.preco.toFixed(2)}`;
+    li.textContent = `${item.nome} - ${item.qty} x R$ ${item.preco.toFixed(2)}`;
 
     const removeBtn = document.createElement('button');
     removeBtn.textContent = 'Remover';
@@ -35,9 +36,18 @@ function renderCart() {
 }
 
 function addToCart(product) {
-  cart.push(product);
-  saveCart();
-  renderCart();
+  const existing = cart.find(item => item.id === product.id);
+
+  if (existing) {
+  
+    existing.qty += 1;
+  } else {
+   
+    cart.push({ ...product, qty: 1 });
+  }
+
+  saveCart();  
+  renderCart();  
 }
 
 
