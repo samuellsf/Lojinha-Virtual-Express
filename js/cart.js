@@ -22,7 +22,7 @@ function renderCart() {
     total += item.preco * item.qty; 
 
     const li = document.createElement('li');
-    li.textContent = `${item.nome} - ${item.qty} x R$ ${item.preco.toFixed(2)}`;
+    li.textContent = `${item.nome} - ${item.qty} x R$ ${item.preco.toFixed(1)}`;
 
     const removeBtn = document.createElement('button');
     removeBtn.textContent = 'Remover';
@@ -32,7 +32,7 @@ function renderCart() {
     cartItemsContainer.appendChild(li);
   });
 
-  cartTotal.textContent = `Total: R$ ${total.toFixed(2)}`;
+  cartTotal.textContent = `Total: R$ ${total.toFixed(1)}`;
 }
 
 function addToCart(product) {
@@ -71,7 +71,7 @@ function checkoutWhatsApp() {
 
   let message = 'Olá! Quero comprar:%0A';
   cart.forEach(item => {
-    message += `- ${item.nome} (R$ ${item.preco.toFixed(2)})%0A`;
+    message += `- ${item.nome} (R$ ${item.preco.toFixed(1)})%0A`;
   });
 
   const total = cart.reduce((sum, item) => sum + item.preco, 0);
