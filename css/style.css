@@ -41,21 +41,24 @@ body {
 }
 
 .social-links a {
-  font-weight: 600;
-  padding: 0.4rem 0.8rem;
-  border-radius: 8px;
-  background: rgba(255, 255, 255, 0.2);
-  color: white;
-  transition: all 0.3s ease;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem; /* espaço entre a imagem e o texto */
   text-decoration: none;
+  color: #fff;
 }
 
+.social-links img {
+  width: 24px; /* largura da imagem */
+  height: 24px; /* altura da imagem */
+}
 .social-links a:hover {
   background: white;
   color: #1976d2;
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
   transform: translateY(-2px);
 }
+
 
 .header-content {
   display: flex;
