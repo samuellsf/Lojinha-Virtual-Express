@@ -6,7 +6,6 @@ const urlsToCache = [
   '/index.html',
   '/css/style.css',
   '/js/app.js',
-  '/js/cart.js',
   '/data/produtos.json'
 ];
 

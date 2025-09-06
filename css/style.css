@@ -11,6 +11,7 @@ body {
   transition: all 0.3s ease;
 }
 
+/* HEADER */
 .header {
   background: linear-gradient(135deg, #1976d2, #42a5f5);
   color: white;
@@ -43,31 +44,21 @@ body {
 .social-links a {
   display: flex;
   align-items: center;
-  gap: 0.5rem; /* espaço entre a imagem e o texto */
+  gap: 0.5rem;
   text-decoration: none;
   color: #fff;
 }
 
 .social-links img {
-  width: 24px; /* largura da imagem */
-  height: 24px; /* altura da imagem */
+  width: 24px;
+  height: 24px;
 }
+
 .social-links a:hover {
   background: white;
   color: #1976d2;
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
   transform: translateY(-2px);
-}
-
-
-.header-content {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-}
-
-#store-name {
-  margin-left: 20px;
 }
 
 /* FILTROS ACIMA DOS PRODUTOS */
@@ -125,13 +116,6 @@ body {
 }
 
 /* RESPONSIVIDADE FILTROS */
-@media (max-width: 1200px) {
-  .header .social-links {
-    justify-content: center;
-    margin-bottom: 1rem;
-  }
-}
-
 @media (max-width: 900px) {
   .filters {
     flex-direction: column;
@@ -147,7 +131,7 @@ body {
   }
 
   .products {
-    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
     gap: 1.2rem;
   }
 
@@ -175,7 +159,7 @@ main {
 
 .products {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
   gap: 1.5rem;
   flex: 3;
 }
@@ -268,7 +252,7 @@ main {
 
 /* CARRINHO PREMIUM */
 .cart {
-  flex: 1;
+  flex: 1px;
   background: rgb(136, 224, 244);
   border-radius: 20px;
   padding: 1rem;
@@ -306,13 +290,13 @@ main {
 #cart-items li button {
   background: #e53935;
   padding: 0.15rem 0.4rem;
-  font-size: 0.75rem;
-  border-radius: 12px;
+  font-size: 0.70rem;
+  border-radius: 10px;
   cursor: pointer;
   color: white;
   border: none;
   min-width: 60px;
-  height: 22px;
+  height: 20px;
   transition: all 0.3s ease;
 }
 
@@ -325,27 +309,47 @@ main {
   font-weight: bold;
   text-align: center;
   margin-top: 1rem;
+  font-size: 1.2rem; 
+  color: #1976d2; 
+}
+#checkout { 
+  display: flex;
+  width: 100%; 
+  max-width: 300px; 
+  align-items: center;
+  justify-content: center;
+  background-color: #25D366; 
+  color: white;
+  font-size: 16px;
+  font-weight: 600;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 50px;
+  cursor: pointer;
+  transition: background-color 0.3s ease, transform 0.3s ease;
+  text-align: center;
+  margin: 20px auto;
 }
 
-#checkout {
-  display: block;
-  width: 100%;
-  margin-top: 1rem;
-  background: linear-gradient(135deg, #25d366, #1eb153);
-  color: white;
-  border: none;
-  padding: 1rem;
-  border-radius: 16px;
-  cursor: pointer;
-  font-size: 1.1rem;
-  font-weight: 700;
-  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
-  transition: all 0.3s ease;
+#checkout img {
+  width: 24px;
+  height: 24px;
+  margin-right: 10px;  
 }
 
 #checkout:hover {
-  transform: scale(1.05);
-  box-shadow: 0 8px 25px rgba(0, 0, 0, 0.3);
+  background-color: #128C7E;
+  transform: translateY(-3px); 
+}
+
+#checkout:focus {
+  outline: none; 
+  box-shadow: 0 0 5px rgba(0, 128, 0, 0.7);
+}
+
+#checkout:active {
+  transform: scale(1); 
+  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2); 
 }
 
 /* FOOTER PREMIUM */
@@ -360,7 +364,7 @@ main {
   transition: all 0.3s ease;
 }
 
-@media (max-width: 900px) {
+@media (max-width: 1280px) {
   .header h1 {
     font-size: 4vw;
   }
@@ -372,7 +376,7 @@ main {
   }
 
   .products {
-    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
     gap: 1.2rem;
   }
 
@@ -383,9 +387,19 @@ main {
   .cart {
     max-width: 90%;
   }
+
+  #checkout {
+    width: 100%;
+    padding: 1rem;
+    font-size: 1rem;
+    font-weight: 700;
+    max-width: 100%;
+  
+  }
+}
+
 /* RESPONSIVIDADE FILTROS PARA CELULAR */
 @media (max-width: 768px) {
-
   .header h1 {
     font-size: 6vw; 
   }
@@ -405,7 +419,7 @@ main {
   }
 
   .products {
-    grid-template-columns: repeat(auto-fit, minmax(160px, 1fr)); 
+    grid-template-columns: repeat(auto-fit, minmax(140px, 1fr)); 
     gap: 1rem;
   }
 
@@ -426,8 +440,9 @@ main {
   #checkout {
     width: 100%;
     padding: 1rem;
-    font-size: 1rem; 
     font-weight: 700;
+    font-size: 10px;  
+    max-width: 100%;  
   }
 
   .footer {
@@ -445,10 +460,21 @@ main {
     padding: 0.2rem 0.6rem;
   }
 }
+@media (max-width: 480px) {
+  #checkout {
+    padding: 10px 15px;  
+    font-size: 10px;  
+    max-width: 100%;  
+  }
 
+  #checkout img {
+    width: 20px;  
+    height: 20px;
+  }
+}
 
+/* RESPONSIVIDADE EM TELAS MENORES */
 @media (max-width: 345px) {
-  
   .header h1 {
     font-size: 8vw; 
   }
@@ -464,7 +490,7 @@ main {
   }
 
   .products {
-    grid-template-columns: 1fr; 
+    grid-template-columns: repeat(auto-fit, minmax(50px, 1fr));
     gap: 1rem;
   }
 
@@ -481,16 +507,14 @@ main {
     margin-top: 1.5rem;
     margin-bottom: 1.5rem;
   }
-
   #checkout {
-    width: 100%;
-    padding: 1rem;
-    font-size: 0.9rem; 
+    padding: 10px 15px;  
+    font-size: 10px;  
+    max-width: 100%;  
   }
 
   .footer {
     font-size: 0.8rem; 
     padding: 1rem 1rem;
   }
-}
 }
