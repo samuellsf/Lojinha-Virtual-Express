@@ -1,0 +1,292 @@
+[
+  {
+    "id": 1,
+    "nome": "Camiseta Estilosa",
+    "descricao": "Camiseta 100% algodão, confortável e moderna.",
+    "preco": 79.90,
+    "imagem": "https://cdn.dummyjson.com/product-images/mens-shirts/blue-&-black-check-shirt/1.webp",
+    "category": "Roupas"
+  },
+  {
+    "id": 2,
+    "nome": "Tênis Casual",
+    "descricao": "Tênis leve e confortável para uso diário.",
+    "preco": 199.90,
+    "imagem": "https://cdn.dummyjson.com/product-images/mens-shoes/nike-air-jordan-1-red-and-black/1.webp",
+    "category": "Calçados"
+  },
+  {
+    "id": 2,
+    "nome": "Tênis Casual",
+    "descricao": "Tênis leve e confortável para uso diário.",
+    "preco": 199.90,
+    "imagem": "https://cdn.dummyjson.com/product-images/mens-shoes/nike-air-jordan-1-red-and-black/1.webp",
+    "category": "Calçados"
+  },
+  {
+    "id": 3,
+    "nome": "Bolsa Feminina",
+    "descricao": "Bolsa elegante e prática, perfeita para o dia a dia.",
+    "preco": 149.90,
+    "imagem": "https://cdn.dummyjson.com/product-images/womens-bags/blue-women's-handbag/1.webp",
+    "category": "Acessórios"
+  },
+  {
+    "id": 1,
+    "nome": "Camiseta Estilosa",
+    "descricao": "Camiseta 100% algodão, confortável e moderna.",
+    "preco": 79.90,
+    "imagem": "https://cdn.dummyjson.com/product-images/mens-shirts/blue-&-black-check-shirt/1.webp",
+    "category": "Roupas"
+  },
+  {
+    "id": 2,
+    "nome": "Tênis Casual",
+    "descricao": "Tênis leve e confortável para uso diário.",
+    "preco": 199.90,
+    "imagem": "https://cdn.dummyjson.com/product-images/mens-shoes/nike-air-jordan-1-red-and-black/1.webp",
+    "category": "Calçados"
+  },
+  {
+    "id": 3,
+    "nome": "Bolsa Feminina",
+    "descricao": "Bolsa elegante e prática, perfeita para o dia a dia.",
+    "preco": 149.90,
+    "imagem": "https://cdn.dummyjson.com/product-images/womens-bags/blue-women's-handbag/1.webp",
+    "category": "Acessórios"
+  },
+  {
+    "id": 2,
+    "nome": "Tênis Casual",
+    "descricao": "Tênis leve e confortável para uso diário.",
+    "preco": 199.90,
+    "imagem": "https://cdn.dummyjson.com/product-images/mens-shoes/nike-air-jordan-1-red-and-black/1.webp",
+    "category": "Calçados"
+  },
+  {
+    "id": 1,
+    "nome": "Camiseta Estilosa",
+    "descricao": "Camiseta 100% algodão, confortável e moderna.",
+    "preco": 79.90,
+    "imagem": "https://cdn.dummyjson.com/product-images/mens-shirts/blue-&-black-check-shirt/1.webp",
+    "category": "Roupas"
+  },
+  {
+    "id": 2,
+    "nome": "Tênis Casual",
+    "descricao": "Tênis leve e confortável para uso diário.",
+    "preco": 199.90,
+    "imagem": "https://cdn.dummyjson.com/product-images/mens-shoes/nike-air-jordan-1-red-and-black/1.webp",
+    "category": "Calçados"
+  },
+  {
+    "id": 3,
+    "nome": "Bolsa Feminina",
+    "descricao": "Bolsa elegante e prática, perfeita para o dia a dia.",
+    "preco": 149.90,
+    "imagem": "https://cdn.dummyjson.com/product-images/womens-bags/blue-women's-handbag/1.webp",
+    "category": "Acessórios"
+  },
+  {
+    "id": 2,
+    "nome": "Tênis Casual",
+    "descricao": "Tênis leve e confortável para uso diário.",
+    "preco": 199.90,
+    "imagem": "https://cdn.dummyjson.com/product-images/mens-shoes/nike-air-jordan-1-red-and-black/1.webp",
+    "category": "Calçados"
+  },
+  {
+    "id": 3,
+    "nome": "Bolsa Feminina",
+    "descricao": "Bolsa elegante e prática, perfeita para o dia a dia.",
+    "preco": 149.90,
+    "imagem": "https://cdn.dummyjson.com/product-images/womens-bags/blue-women's-handbag/1.webp",
+    "category": "Acessórios"
+  },
+  {
+    "id": 1,
+    "nome": "Camiseta Estilosa",
+    "descricao": "Camiseta 100% algodão, confortável e moderna.",
+    "preco": 79.90,
+    "imagem": "https://cdn.dummyjson.com/product-images/mens-shirts/blue-&-black-check-shirt/1.webp",
+    "category": "Roupas"
+  },
+  {
+    "id": 2,
+    "nome": "Tênis Casual",
+    "descricao": "Tênis leve e confortável para uso diário.",
+    "preco": 199.90,
+    "imagem": "https://cdn.dummyjson.com/product-images/mens-shoes/nike-air-jordan-1-red-and-black/1.webp",
+    "category": "Calçados"
+  },
+  {
+    "id": 3,
+    "nome": "Bolsa Feminina",
+    "descricao": "Bolsa elegante e prática, perfeita para o dia a dia.",
+    "preco": 149.90,
+    "imagem": "https://cdn.dummyjson.com/product-images/womens-bags/blue-women's-handbag/1.webp",
+    "category": "Acessórios"
+  },
+  {
+    "id": 4,
+    "nome": "Relógio Clássico",
+    "descricao": "Relógio sofisticado com pulseira de couro.",
+    "preco": 249.90,
+    "imagem": "https://cdn.dummyjson.com/product-images/mens-watches/brown-leather-belt-watch/1.webp",
+    "category": "Acessórios"
+  },
+  {
+    "id": 5,
+    "nome": "Jaqueta Casual",
+    "descricao": "Jaqueta estilosa para dias frios e looks modernos.",
+    "preco": 299.90,
+    "imagem": "https://cdn.dummyjson.com/product-images/mens-shirts/man-plaid-shirt/1.webp",
+    "category": "Roupas"
+  },
+  {
+    "id": 4,
+    "nome": "Relógio Clássico",
+    "descricao": "Relógio sofisticado com pulseira de couro.",
+    "preco": 249.90,
+    "imagem": "https://cdn.dummyjson.com/product-images/mens-watches/brown-leather-belt-watch/1.webp",
+    "category": "Acessórios"
+  },
+  {
+    "id": 5,
+    "nome": "Jaqueta Casual",
+    "descricao": "Jaqueta estilosa para dias frios e looks modernos.",
+    "preco": 299.90,
+    "imagem": "https://cdn.dummyjson.com/product-images/mens-shirts/man-plaid-shirt/1.webp",
+    "category": "Roupas"
+  },
+  {
+    "id": 6,
+    "nome": "Mochila Moderna",
+    "descricao": "Mochila resistente e prática para uso diário.",
+    "preco": 179.90,
+    "imagem": "https://cdn.dummyjson.com/product-images/womens-bags/prada-women-bag/1.webp",
+    "category": "Acessórios"
+  },
+
+  {
+    "id": 1,
+    "nome": "Camiseta Estilosa",
+    "descricao": "Camiseta 100% algodão, confortável e moderna.",
+    "preco": 79.90,
+    "imagem": "https://cdn.dummyjson.com/product-images/mens-shirts/blue-&-black-check-shirt/1.webp",
+    "category": "Roupas"
+  },
+  {
+    "id": 2,
+    "nome": "Tênis Casual",
+    "descricao": "Tênis leve e confortável para uso diário.",
+    "preco": 199.90,
+    "imagem": "https://cdn.dummyjson.com/product-images/mens-shoes/nike-air-jordan-1-red-and-black/1.webp",
+    "category": "Calçados"
+  },
+  {
+    "id": 3,
+    "nome": "Bolsa Feminina",
+    "descricao": "Bolsa elegante e prática, perfeita para o dia a dia.",
+    "preco": 149.90,
+    "imagem": "https://cdn.dummyjson.com/product-images/womens-bags/blue-women's-handbag/1.webp",
+    "category": "Acessórios"
+  },
+  {
+    "id": 4,
+    "nome": "Relógio Clássico",
+    "descricao": "Relógio sofisticado com pulseira de couro.",
+    "preco": 249.90,
+    "imagem": "https://cdn.dummyjson.com/product-images/mens-watches/brown-leather-belt-watch/1.webp",
+    "category": "Acessórios"
+  },
+  {
+    "id": 5,
+    "nome": "Jaqueta Casual",
+    "descricao": "Jaqueta estilosa para dias frios e looks modernos.",
+    "preco": 299.90,
+    "imagem": "https://cdn.dummyjson.com/product-images/mens-shirts/man-plaid-shirt/1.webp",
+    "category": "Roupas"
+  },
+  {
+    "id": 6,
+    "nome": "Mochila Moderna",
+    "descricao": "Mochila resistente e prática para uso diário.",
+    "preco": 179.90,
+    "imagem": "https://cdn.dummyjson.com/product-images/womens-bags/prada-women-bag/1.webp",
+    "category": "Acessórios"
+  },
+  {
+    "id": 7,
+    "nome": "Camisa Social Slim",
+    "descricao": "Camisa de corte moderno ideal para trabalho e eventos.",
+    "preco": 119.90,
+    "imagem": "https://cdn.dummyjson.com/product-images/mens-shirts/man-short-sleeve-shirt/1.webp",
+    "category": "Roupas"
+  },
+  {
+    "id": 8,
+    "nome": "Vestido Floral Verão",
+    "descricao": "Vestido leve com estampa delicada e caimento solto.",
+    "preco": 159.90,
+    "imagem": "https://cdn.dummyjson.com/product-images/womens-dresses/dress-pea/1.webp",
+    "category": "Roupas"
+  },
+  {
+    "id": 9,
+    "nome": "Blusa Casual Feminina",
+    "descricao": "Tecido macio e respirável para o dia a dia.",
+    "preco": 89.90,
+    "imagem": "https://cdn.dummyjson.com/product-images/tops/blue-frock/1.webp",
+    "category": "Roupas"
+  },
+  {
+    "id": 10,
+    "nome": "Tênis Esportivo Runner",
+    "descricao": "Amortecimento reforçado para caminhadas e corridas.",
+    "preco": 259.90,
+    "imagem": "https://cdn.dummyjson.com/product-images/mens-shoes/sports-sneakers-off-white-&-red/1.webp",
+    "category": "Calçados"
+  },
+  {
+    "id": 11,
+    "nome": "Sapato Social Clássico",
+    "descricao": "Acabamento refinado e palmilha anatômica.",
+    "preco": 229.90,
+    "imagem": "https://cdn.dummyjson.com/product-images/mens-shoes/puma-future-rider-trainers/1.webp",
+    "category": "Calçados"
+  },
+  {
+    "id": 12,
+    "nome": "Salto Alto Elegante",
+    "descricao": "Design sofisticado para festas e ocasiões especiais.",
+    "preco": 189.90,
+    "imagem": "https://cdn.dummyjson.com/product-images/womens-shoes/black-&-brown-slipper/1.webp",
+    "category": "Calçados"
+  },
+  {
+    "id": 13,
+    "nome": "Sapatilha Confort",
+    "descricao": "Leve, flexível e ideal para longas horas de uso.",
+    "preco": 109.90,
+    "imagem": "https://cdn.dummyjson.com/product-images/womens-shoes/calvin-klein-heel-shoes/1.webp",
+    "category": "Calçados"
+  },
+  {
+    "id": 14,
+    "nome": "Óculos de Sol Aviador",
+    "descricao": "Proteção UV400 com armação metálica leve.",
+    "preco": 139.90,
+    "imagem": "https://cdn.dummyjson.com/product-images/sunglasses/black-sun-glasses/1.webp",
+    "category": "Acessórios"
+  },
+  {
+    "id": 15,
+    "nome": "Relógio Minimalista",
+    "descricao": "Mostrador limpo com pulseira ajustável em aço.",
+    "preco": 279.90,
+    "imagem": "https://cdn.dummyjson.com/product-images/mens-watches/rolex-cellini-date-black-dial/1.webp",
+    "category": "Acessórios"
+  }
+
+]
